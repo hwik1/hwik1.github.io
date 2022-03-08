@@ -26,4 +26,4 @@ After creating my interactive webpage, I added a number of customizations to enh
  * Added a background picture on the jumbotron of a navel to offer a quick representation of the subject matter
  * Changed the default font for text on the page to 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif (Note: didn't apply to the text within the charts)
  * Changed the color of the title to red
- * Added a paragraph detailing the background with title, color, and bold formatting
+ * Added a paragraph detailing the background with title and bold formatting to emphasize certain points
